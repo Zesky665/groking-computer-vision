@@ -1,2 +1,5 @@
 grok-cv/bin/activate
 grok-cv/*
+archive/*
+training_data/train/00000.png
+training_data/*
